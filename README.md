@@ -1,19 +1,22 @@
-# nlw eSports 
+# 🚀 NLW eSports 
 
 ![preview](./.github/preview.png)
 
->Trilha Explorer
+## 🧭 Trilha Explorer
 
-Projeto construído no evento Next Level Week da Rocketseat.
+> Projeto construído no evento Next Level Week da Rocketseat 2022.
 
-[Clique aqui para acessar](https://miask3011.github.io/nlw-esports-explorer/)
+Consiste numa webpage simples que cataloga meus jogos e canais favoritos, além das minhas redes sociais.
 
-## Tecnologias
+[🔗 Clique aqui para acessar](https://miask3011.github.io/nlw-esports-explorer/)
 
-- HTML
-- CSS
-- Git e Github
+## 🛠️ Tecnologias
 
-## Contato
+<img src="https://github.com/z-alsamarai/README_icons/blob/main/language_and_tools/square/css/css.png?raw=true">
+</img>
+<img src="https://github.com/z-alsamarai/README_icons/blob/main/language_and_tools/square/html/html.png?raw=true">
+</img>
 
-neemiascalebe2014@gmail.com
+## 📮 Contato
+
+> ✉️ neemiascalebe2014@gmail.com
